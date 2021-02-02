@@ -2,4 +2,4 @@
 
 A simple flutter user card design.
 
-[Screenshot](https://github.com/londonappbrewery/Images/blob/master/readme-end-banner.png)
+[Screenshot](https://github.com/ramanic/FlutterUserCard/raw/main/screenshot.png)
